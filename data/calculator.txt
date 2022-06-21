@@ -1,0 +1,12 @@
+DATITOS DE CALCULADORA
+a = 5
+
+b = 12
+
+5 + 12 = sum
+
+5 - 12 = rest
+
+5 * 12 = multiply
+
+12 / 5 = 2 = divide
